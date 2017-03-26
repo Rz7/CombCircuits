@@ -1,0 +1,12 @@
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\bin\Debug\SynthesisOfDM.exe
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\bin\Debug\SynthesisOfDM.pdb
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.csprojResolveAssemblyReference.cache
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.Form1.resources
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.Properties.Resources.resources
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.csproj.GenerateResource.Cache
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.exe
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.pdb
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.PreoF.resources
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.MMatrix.resources
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.SynthesisLV.resources
+C:\Users\Рамиз\Documents\Visual Studio 2013\Projects\SynthesisOfDM\SynthesisOfDM\obj\Debug\SynthesisOfDM.AnalyseSubMTXF.resources
